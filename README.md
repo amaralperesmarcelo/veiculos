@@ -50,8 +50,8 @@ Isso nos permitiu:
 
 Aqui estão exemplos de frontends conectados ao nosso ecossistema (com dados falsos para demonstração):
 
-- **Classe A Veículos (Fictícia):** [Link do repositório/deploy] - *Exemplo de tema Dark/Gold Premium.*
-- **PKar Veículos (Fictícia):** [Link do repositório/deploy] - *Exemplo de tema com cores fortes e modernas.*
+- **Concessionária 1:** [Link do deploy] - *Exemplo de tema Dark/Gold Premium.*
+- **Concessionária 2:** [Link do deploy] - *Exemplo de tema com cores fortes e modernas.*
 
 ---
 *Este repositório foi criado exclusivamente para fins de portfólio. Códigos sensíveis, chaves de API e dados reais de clientes não estão presentes aqui.*
